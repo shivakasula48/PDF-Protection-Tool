@@ -30,20 +30,6 @@ A comprehensive command-line tool to **encrypt PDF files** with a **strong passw
 
 ---
 
-## 🧰 Prerequisites
-
-Install PyPDF2:
-
-```bash
-pip install PyPDF2
-```
-
-## 🚀 Usage
-
-```bash
-python3 protect_pdf.py
-```
-
 ### 🧭 Interactive Prompts
 
 1. **Enter input PDF file path**  
@@ -106,13 +92,27 @@ Enable compression to reduce file size? (y/n): y
 ```
 ---
 
+
+## 🧰 Prerequisites
+
+Install PyPDF2:
+
+```bash
+pip install PyPDF2
+```
+
+
+---
 ## 🧬 Cloning the Repository
 
 ```bash
 git clone https://github.com/shivakasula48/pdf-protection-tool.git
-cd pdf-protection-tool
 ```
+## 🚀 Usage
 
+```bash
+python3 protect_pdf.py
+```
 
 ---
 ## 🧠 Key Functions Explained
