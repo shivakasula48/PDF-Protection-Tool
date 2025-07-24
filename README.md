@@ -180,3 +180,11 @@ project/
 - GUI version using **Tkinter** or **PyQt**
 - **Password manager** integration
 - **Drag & drop** file support for easier input
+
+---
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
+
